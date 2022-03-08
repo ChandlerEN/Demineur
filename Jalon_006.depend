@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1608479735 source:d:\onedrive - campusid\cours\algorithme\c\partiels\jalon_006\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
+1608503944 source:d:\onedrive - campusid\cours\algorithme\c\partiels\partiel_01_demineur\jalon_006\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
